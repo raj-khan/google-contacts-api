@@ -42,7 +42,7 @@ npm install googleapis@39 --save
 
 Create a file named index.js in your working directory and copy in the following code:
 
-```javascript=1
+```javascript
 const fs = require('fs');
 const readline = require('readline');
 const {google} = require('googleapis');
@@ -166,6 +166,8 @@ The first time you run the sample, it will prompt you to authorize access:
     After this The file **token.json** stores the user's access and refresh tokens, and is created automatically when the authorization flow completes for the first time.Load previously authorized token from a file, if it exists.
     
 4. **Paste** the **code** where asked in your terminal. You will see a result printed in your terminal which is Contacts Name & Emails for **10** contacts by **default**.
+
+5. Now copy the **main.js** code into your **index.js** file.
 
 6. You're all set, enjoy :rocket:
    
