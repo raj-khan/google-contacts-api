@@ -6,7 +6,9 @@
 ![](https://img.shields.io/badge/Account-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 ## About
-Google Contacts API allows client applications to view and update a user's contacts. Contacts are stored in the user's Google Account; most Google services have access to the contact list.
+Google Contacts API allows client applications to view and update user contacts. Contacts are stored in the Google Account. 
+
+To follow this repo you can export your Google contacts into a JSON file.
 
 
 ## Beginners Guide
