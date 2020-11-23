@@ -1,6 +1,6 @@
 [![Header](export-contacts.png "Header")](http://raajkhan.com/)
 
-## Technology
+## Technologies
 
 ![](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Account-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
