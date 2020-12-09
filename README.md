@@ -179,4 +179,7 @@ The first time you run the sample, it will prompt you to authorize access:
 5. Now copy the **main.js** code into your **index.js** file.
 
 6. You're all set, enjoy :rocket:
+
+### License
+This project is licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL/blob/master/LICENSE)
    
